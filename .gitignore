@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/settings.json
+.DS_Store
+Thumbs.db
+
+# Generated analysis outputs
+*.log
+
+# Local data and secrets
+*.sqlite
+*.db
+.env.*
+
+# Personal homework notes
+notes.md
