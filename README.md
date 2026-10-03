@@ -11,7 +11,6 @@ The collaborators for this repository are:
 3. Denise Atherley
 4. Jane Song
 5. Joao Deoliveira
-6. Kevin Diperna
 
 ## Folders
 
